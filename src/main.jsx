@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App.jsx";
 import Greeting from "./Greeting.jsx";
 import "./index.css";
-import Favefood from "./Favefood.jsx";
+import { Favefood } from "./Favefood.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
